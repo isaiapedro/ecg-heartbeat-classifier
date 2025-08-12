@@ -3,7 +3,7 @@
 
 ## Contents
 
-- [How to run](#howtorun)
+- [How to run](#how-to-run)
 - [Introduction](#introduction)
 - [Data Overview](#data-overview)
 - [Results](#results)
